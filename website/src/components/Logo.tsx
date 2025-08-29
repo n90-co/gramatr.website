@@ -5,7 +5,7 @@ interface LogoProps {
   showAnimation?: boolean;
 }
 
-export function Logo({ className = "", showAnimation = true }: LogoProps) {
+export function Logo({ className = "" }: LogoProps) {
   return (
     <div className={`flex items-center gap-3 ${className}`}>
       <div className="flex items-center">

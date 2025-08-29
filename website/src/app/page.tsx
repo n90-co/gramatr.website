@@ -1,4 +1,3 @@
-import { Logo } from "@/components/Logo";
 import { Hero } from "@/components/Hero";
 import { Features } from "@/components/Features";
 import { Installation } from "@/components/Installation";

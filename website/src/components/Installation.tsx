@@ -215,7 +215,7 @@ docker run --rm -i \\
                   Initialize Project
                 </h4>
                 <p className="text-primary-600 text-sm">
-                  Ask your AI: "Initialize project memory for this directory"
+                  Ask your AI: &quot;Initialize project memory for this directory&quot;
                 </p>
               </div>
               <div className="bg-white dark:bg-primary-700 rounded-xl p-6 border border-neutral-200 dark:border-primary-600">
@@ -250,7 +250,7 @@ docker run --rm -i \\
             </p>
             <div className="bg-white dark:bg-primary-800 rounded-lg p-4 border border-success-200 dark:border-success-500/30">
               <code className="text-accent-600 font-mono text-sm">
-                "List available MCP tools and show me what grāmatr can do"
+                &quot;List available MCP tools and show me what grāmatr can do&quot;
               </code>
             </div>
           </div>

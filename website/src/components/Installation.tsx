@@ -21,7 +21,7 @@ export function Installation() {
           id: 'claude-project',
           title: 'Project-Specific Installation',
           description: 'Each project gets its own container and memory',
-          command: `# Set up project-specific Gramatr
+          command: `# Set up project-specific grāmatr
 export GRAMATR_PROJECT_PATH=$(pwd)
 claude mcp add gramatr \\
     --scope=local \\
@@ -40,7 +40,7 @@ claude mcp add gramatr \\
           id: 'claude-global',
           title: 'User-Level Installation',
           description: 'Shared container across all projects',
-          command: `# Set up user-level Gramatr
+          command: `# Set up user-level grāmatr
 claude mcp add gramatr-global \\
     --scope=user \\
     -- docker run --rm -i \\
@@ -89,7 +89,7 @@ claude mcp add gramatr-global \\
           id: 'docker-manual',
           title: 'Direct Docker Usage',
           description: 'Run container directly without MCP integration',
-          command: `# Pull and run Gramatr container
+          command: `# Pull and run grāmatr container
 docker pull ghcr.io/n90-co/gramatr:latest
 
 # Run with volume mounting
@@ -102,7 +102,7 @@ docker run --rm -i \\
           id: 'source-build',
           title: 'Build from Source',
           description: 'For development and customization',
-          command: `# Clone and build Gramatr
+          command: `# Clone and build grāmatr
 git clone https://github.com/n90-co/gramatr.git
 cd gramatr/mcp-server
 
@@ -250,7 +250,7 @@ docker run --rm -i \\
             </p>
             <div className="bg-white dark:bg-primary-800 rounded-lg p-4 border border-success-200 dark:border-success-500/30">
               <code className="text-accent-600 font-mono text-sm">
-                "List available MCP tools and show me what Gramatr can do"
+                "List available MCP tools and show me what grāmatr can do"
               </code>
             </div>
           </div>

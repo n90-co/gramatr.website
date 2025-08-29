@@ -57,7 +57,7 @@ export function Hero() {
               9x
             </span>
             <br />
-            with Gramatr
+            with grāmatr
           </h1>
 
           {/* Subtitle */}
@@ -125,11 +125,11 @@ export function Hero() {
                 <span className="text-neutral-400 text-sm font-mono ml-2">Terminal</span>
               </div>
               <div className="font-mono text-sm">
-                <div className="text-neutral-400 mb-1"># Install Gramatr MCP Server</div>
+                <div className="text-neutral-400 mb-1"># Install grāmatr MCP Server</div>
                 <div className="text-accent-400">claude mcp add gramatr \\</div>
                 <div className="text-neutral-300 ml-4">--scope=user \\</div>
                 <div className="text-neutral-300 ml-4">-- docker run -i ghcr.io/n90-co/gramatr:latest</div>
-                <div className="text-green-400 mt-3">✓ Gramatr connected - Universal AI memory active</div>
+                <div className="text-green-400 mt-3">✓ grāmatr connected - Universal AI memory active</div>
               </div>
             </div>
           </div>

@@ -13,21 +13,21 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Gramatr - Universal AI Operating System",
-  description: "Unlock the next 9x with Gramatr. The Universal AI Operating System that provides persistent memory and context across all AI platforms.",
+  title: "grāmatr - Universal AI Operating System",
+  description: "Unlock the next 9x with grāmatr. The Universal AI Operating System that provides persistent memory and context across all AI platforms.",
   keywords: ["AI", "operating system", "MCP", "universal", "memory", "context", "persistence"],
   authors: [{ name: "n90-co", url: "https://github.com/n90-co" }],
   openGraph: {
-    title: "Gramatr - Unlock the next 9x with AI",
+    title: "grāmatr - Unlock the next 9x with AI",
     description: "Universal AI Operating System with persistent memory across all platforms",
     url: "https://gramatr.com",
-    siteName: "Gramatr",
+    siteName: "grāmatr",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Gramatr - Universal AI Operating System",
-    description: "Unlock the next 9x with Gramatr",
+    title: "grāmatr - Universal AI Operating System",
+    description: "Unlock the next 9x with grāmatr",
   },
 };
 

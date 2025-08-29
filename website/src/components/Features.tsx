@@ -56,7 +56,7 @@ export function Features() {
             </span>
           </h2>
           <p className="text-xl text-primary-600 max-w-3xl mx-auto leading-relaxed">
-            Most AI interactions forget everything between sessions. Gramatr provides the persistent memory 
+            Most AI interactions forget everything between sessions. grāmatr provides the persistent memory 
             and context continuity your AI was meant to have.
           </p>
         </div>
@@ -117,7 +117,7 @@ export function Features() {
         {/* Use Case Preview */}
         <div className="mt-20 text-center">
           <h3 className="text-3xl font-bold text-primary-900 dark:text-primary-100 mb-8">
-            See Gramatr in Action
+            See grāmatr in Action
           </h3>
           <div className="bg-primary-900 dark:bg-primary-800 rounded-2xl p-8 max-w-4xl mx-auto text-left">
             <div className="flex items-center gap-2 mb-6">

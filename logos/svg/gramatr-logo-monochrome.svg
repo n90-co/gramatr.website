@@ -1,0 +1,10 @@
+<svg width="300" height="70" viewBox="0 0 300 70" xmlns="http://www.w3.org/2000/svg">
+  <!-- Left bracket -->
+  <text x="70" y="42" font-size="32" font-family="Inter, system-ui, sans-serif" font-weight="400" fill="currentColor">[</text>
+  
+  <!-- Wordmark -->
+  <text x="82" y="42" font-size="32" font-family="Inter, system-ui, sans-serif" font-weight="500" fill="currentColor">grāmatr</text>
+  
+  <!-- Right bracket -->
+  <text x="195" y="42" font-size="32" font-family="Inter, system-ui, sans-serif" font-weight="400" fill="currentColor">]</text>
+</svg>
